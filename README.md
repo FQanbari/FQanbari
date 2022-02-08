@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @FQanbari
-- 👀 I’m interested in web and Iot and tech
-- 🌱 I’m currently learning asp .net core
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hey, I'm Fatemeh 👋
+
+I'm a Software Engineer who works with .NET and SQL, and in love with solving complex algorithmic problems and challenges.
 
 <!---
 FQanbari/FQanbari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
