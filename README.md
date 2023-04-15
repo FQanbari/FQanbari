@@ -1,7 +1,7 @@
- 👋🏼 Hi, I’m Fatemeh. I am a software engineer and a lifelong learner. 
-I am passionate about designing and shaping the future of tech, and I love being part of it as well.
+👋🏼 Hi, I’m Fatemeh. I'm a software engineer with experience in building robots, teaching, and leading teams.
 
-👩🏻‍💻I've been learning web development at home and works with .NET and SQL, and in love with solving complex algorithmic problems and challenges and now I'm working in this field, and I'm excited about this journey.
+👩🏻💻I've been learning web development at home and now I'm working in this field, I'm excited about this journey and in love with solving complex algorithmic problems and challenges.
+Skilled in DesignPatterns, Unit testing, C#, .NET, .NET Core, SQL Server, Entity Framework, javascript, and Backend Development.
 
 <!---
 FQanbari/FQanbari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
