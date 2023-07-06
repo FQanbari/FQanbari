@@ -1,30 +1,30 @@
-# 💫 About Me:
-👋🏼 Hi, I’m Fatemeh. I'm a software engineer with experience in building robots, teaching, and leading teams.<br><br>👩🏻💻I've been learning web development at home and now I'm working in this field, I'm excited about this journey and in love with solving complex algorithmic problems and challenges. Skilled in DesignPatterns, Unit testing, C#, .NET, .NET Core, SQL Server, Entity Framework, javascript, and Backend Development.
+<h1 align="center">Hi 👋, I'm Fatemeh Qanbari</h1>
+<h3 align="center">A software developer (C#/.Net)</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=fqanbari&label=Profile%20views&color=0e75b6&style=flat" alt="fqanbari" /> </p>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/f-qanbari/) 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fqanbari" alt="fqanbari" /></a> </p>
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=fqanbari&theme=dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=fqanbari&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=fqanbari&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=fqanbari&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+- 🔭 I’m Fatemeh. I'm a software engineer with experience in building robots, teaching, and leading teams.<br><br>👩🏻💻I've been learning web development at home and now I'm working in this field, I'm excited about this journey and in love with solving complex algorithmic problems and challenges. Skilled in DesignPatterns, Unit testing, C#, .NET, .NET Core, SQL Server, Entity Framework, javascript, and Backend Development.
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+- 🌱 I’m currently learning **.Net7, DDD, Clean architecture, design pattern and algorithm**
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=fqanbari&limit=5&theme=dark&combine_all_yearly_contributions=true)
+- 💬 Ask me about **.Net, C#, SQL, docker**
 
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
+- 📫 How to reach me **fqanbari919@gmail.com**
 
----
-[![](https://visitcount.itsvg.in/api?id=fqanbari&icon=0&color=0)](https://visitcount.itsvg.in)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/f-qanbari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="f-qanbari" height="30" width="40" /></a>
+</p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fqanbari&show_icons=true&locale=en&layout=compact" alt="fqanbari" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fqanbari&show_icons=true&locale=en" alt="fqanbari" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fqanbari&" alt="fqanbari" /></p>
