@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fatemeh Qanbari</h1>
-<h3 align="center">A software developer (C#/.Net)</h3>
+<h3 align="center">A Software Developer (C#/.Net)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fqanbari&label=Profile%20views&color=0e75b6&style=flat" alt="fqanbari" /> </p>
 
