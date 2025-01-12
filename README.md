@@ -28,3 +28,22 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fqanbari&show_icons=true&locale=en" alt="fqanbari" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fqanbari&" alt="fqanbari" /></p>
+
+
+## ⭐️ My Recent OpenSource Projects
+<table>
+   <thead>
+      <tr>
+        <th>System</th>
+        <th>Status</th>
+        <th>Description</th>
+      </tr>
+   </thead>
+   <tbody>
+       <tr>
+         <td width="180px"><a href='https://github.com/FQanbari/BookShelf.git'>📚 BookShelf</a></td>
+          <td>✅</td>
+          <td>A library management system for managing books and library users, including features for book addition, user registration, loan management, and return handling.</td>
+       </tr>   
+    </tbody>
+</table>
