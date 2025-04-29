@@ -45,5 +45,10 @@
           <td>✅</td>
           <td>A library management system for managing books and library users, including features for book addition, user registration, loan management, and return handling.</td>
        </tr>   
+       <tr>
+         <td width="180px"><a href='https://github.com/FQanbari/BeautyClinic.git'>💅 BeautyClinic</a></td>
+          <td>✅</td>
+          <td>eautyClinic API is a RESTful API for managing a beauty clinic, built with ASP.NET Core using Vertical Slice Architecture (VSA), CQRS, and MediatR. It handles appointments, clinic providers, and services, using Entity Framework Core for database operations and FluentValidation for input validation.</td>
+       </tr>   
     </tbody>
 </table>
