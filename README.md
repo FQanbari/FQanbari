@@ -48,7 +48,7 @@
        <tr>
          <td width="180px"><a href='https://github.com/FQanbari/BeautyClinic.git'>💅 BeautyClinic</a></td>
           <td>✅</td>
-          <td>eautyClinic API is a RESTful API for managing a beauty clinic, built with ASP.NET Core using Vertical Slice Architecture (VSA), CQRS, and MediatR. It handles appointments, clinic providers, and services, using Entity Framework Core for database operations and FluentValidation for input validation.</td>
+          <td>BeautyClinic API is a RESTful API for managing a beauty clinic, built with ASP.NET Core using Vertical Slice Architecture (VSA), CQRS, and MediatR. It handles appointments, clinic providers, and services, using Entity Framework Core for database operations and FluentValidation for input validation.</td>
        </tr>   
     </tbody>
 </table>
