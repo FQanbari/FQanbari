@@ -53,7 +53,7 @@
       <tr>
          <td width="180px"><a href='https://github.com/FQanbari/BitBalance.git'>📊 BitBalance</a></td>
          <td>✅</td>
-         <td>A portfolio management system designed to track and analyze investments, supporting various asset types, pricing services, and portfolio performance calculations.</td>
+         <td>A system for analyzing cryptocurrency portfolio performance, integrating with external APIs to get real-time market data and providing insights on portfolio growth, risk, and diversification using Clean Architecture, Domain-Driven Design (DDD) principles, API integration, real-time notifications, and CI/CD pipelines.</td>
        </tr>
     </tbody>
 </table>
