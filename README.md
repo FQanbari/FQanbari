@@ -51,7 +51,7 @@
           <td>BeautyClinic API is a RESTful API for managing a beauty clinic, built with ASP.NET Core using Vertical Slice Architecture (VSA), CQRS, and MediatR. It handles appointments, clinic providers, and services, using Entity Framework Core for database operations and FluentValidation for input validation.</td>
        </tr>   
       <tr>
-         <td width="180px"><a href='[https://github.com/FQanbari/BitBalance.git]'>📊 BitBalance</a></td>
+         <td width="180px"><a href='https://github.com/FQanbari/BitBalance.git'>📊 BitBalance</a></td>
          <td>✅</td>
          <td>A portfolio management system designed to track and analyze investments, supporting various asset types, pricing services, and portfolio performance calculations.</td>
        </tr>
