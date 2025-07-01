@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fatemeh Qanbari</h1>
-<h3 align="center">A Software Developer (C#/.Net)</h3>
+<h3 align="center">Senior .NET Developer | Backend Engineer | Tech Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fqanbari&label=Profile%20views&color=0e75b6&style=flat" alt="fqanbari" /> </p>
 
@@ -7,12 +7,30 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m Fatemeh. I'm a software engineer with experience in building robots, teaching, and leading teams.<br><br>👩🏻💻I've been learning web development at home and now I'm working in this field, I'm excited about this journey and in love with solving complex algorithmic problems and challenges. Skilled in DesignPatterns, Unit testing, C#, .NET, .NET Core, SQL Server, Entity Framework, javascript, and Backend Development.
+🔭 I'm **Fatemeh Qanbari**, a software developer with several years of experience in designing and building robust backend systems. I have worked on projects ranging from robotics and industrial automation to scalable web applications. Passionate about clean code, architecture patterns, and solving complex challenges.
 
-- 🌱 I’m currently learning **.Net7, DDD, Clean architecture, design pattern and algorithm**
+💡 I specialize in:
+- **.NET Core / ASP.NET Core**
+- **C# / OOP / SOLID principles**
+- **Clean Architecture / DDD / CQRS**
+- **RESTful APIs / Microservices**
+- **SQL Server / Entity Framework**
+- **JavaScript / React / TypeScript**
+- **Unit Testing (xUnit / NUnit)**
+- **Docker / Git / Agile**
 
-- 💬 Ask me about **.Net, C#, SQL, docker**
+🌱 Currently deepening my knowledge in:
+- **.NET 7 / 8**
+- **Advanced Clean Architecture & DDD**
+- **System Design & High-Level Architecture**
+- **Modern DevOps and Cloud-Native Tools**
 
+💬 Feel free to reach out if you want to talk about:
+**Backend engineering**, **.NET ecosystem**, **software architecture**, or **building efficient technical solutions**
+
+📫 Connect with me:
+- GitHub: [@fqanbari](https://github.com/fqanbari)
+- LinkedIn: [Fatemeh Qanbari](https://www.linkedin.com/in/fqanbari/) 
 - 📫 How to reach me **fqanbari919@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
